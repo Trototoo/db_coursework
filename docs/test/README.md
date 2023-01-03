@@ -1,11 +1,22 @@
 # Тестування працездатності системи
 
 ## Відображення всіх сутностей (GET запит)
-
+![изображение](https://user-images.githubusercontent.com/91664086/210346369-37fc4a20-5231-42bb-9c61-a973c4de2144.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347311-fddc4cd0-9dca-483f-a01c-5d645811760d.png)
 ## Додавання сутності (POST запит)
-
+![изображение](https://user-images.githubusercontent.com/91664086/210347056-6b54e4d3-8afe-4a57-9d13-4574c74ad244.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347100-2fc6187f-e575-4f39-9764-469ce5aacbde.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347145-6a90503e-cecc-43ce-98e3-d4bbc005e4de.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347259-cc428071-735b-4cbd-a505-8ba8da81d3cd.png)
 ## Отримання певної сутності по id (GET запит)
-
+![изображение](https://user-images.githubusercontent.com/91664086/210347360-f336322f-38d5-4d62-82d0-140d37f7e430.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347439-3f4f5e11-2f06-4dd3-abac-91c50f0f452e.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347470-94e5ea0f-a84d-4b84-b1b0-40cb188fb30b.png)
 ## Оновлення певної сутності по id (PUT запит)
-
+![изображение](https://user-images.githubusercontent.com/91664086/210347532-cc4b6be4-f18f-447b-831c-c37fafcf8abf.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347634-98314c15-fb00-489f-af14-1b7319329987.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347664-db2a648f-210b-4e80-b447-1450e0096b48.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347698-1831b62a-975a-4127-b4fc-fe3d22bd1352.png)
 ## Видалення певної сутності по id (DELETE запит)
+![изображение](https://user-images.githubusercontent.com/91664086/210347750-a4e1c715-3c23-4faa-9650-520a28cfca51.png)
+![изображение](https://user-images.githubusercontent.com/91664086/210347788-ac4627b5-5332-420c-b80f-849a0217be6a.png)
